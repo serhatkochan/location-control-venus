@@ -1,4 +1,4 @@
-package serhat.locationcontrolvenus.config;
+package serhat.locationcontrolvenus.core.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
